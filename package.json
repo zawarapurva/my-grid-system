@@ -1,0 +1,26 @@
+{
+  "name": "mygridsystem",
+  "version": "1.0.0",
+  "description": "Made a very generic grid system using SASS for three screen sizes",
+  "main": "dist/grid.min.css",
+  "sass": "src/grid.scss",
+  "style": "src/styles.scss",
+  "scripts": {
+    "scss": "node-sass --watch scss -o css",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zawarapurva/my-grid-system.git"
+  },
+  "author": "apurvazawar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zawarapurva/my-grid-system/issues"
+  },
+  "homepage": "https://github.com/zawarapurva/my-grid-system#readme",
+  "keywords": ["grid","sass"],
+  "dependencies": {
+    "sass": "^1.26.3"
+  }
+}
