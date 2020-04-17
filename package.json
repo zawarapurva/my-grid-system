@@ -19,7 +19,10 @@
     "url": "https://github.com/zawarapurva/my-grid-system/issues"
   },
   "homepage": "https://github.com/zawarapurva/my-grid-system#readme",
-  "keywords": ["grid","sass"],
+  "keywords": [
+    "grid",
+    "sass"
+  ],
   "dependencies": {
     "sass": "^1.26.3"
   }
